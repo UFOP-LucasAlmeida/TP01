@@ -366,7 +366,7 @@ def HUMANO_vez(comp_escolha, humano_escolha):
 
     while (movimento < 1 or movimento > 4):
         try:
-            movimento = int(input('Use numero (1..4): '))
+            movimento = int(input('Use numero: 1- Direita baixo | 2- Esquerda baixo | 3- Esquerda cima | 4- Direita cima\nOpção: '))
             coord = movimentos[movimento]
             tenta_movimento = exec_movimento_lobo(coord[0], coord[1], HUMANO)
 
