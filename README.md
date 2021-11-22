@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ### Para rodar o jogo
 
-```
+
 
 <hr>
 
