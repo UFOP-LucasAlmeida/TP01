@@ -43,23 +43,14 @@ O aplicativo utiliza:
 - [Python] - Linguagem de programação.
 
 
-## Instalação
-
-### Para instalar as dependências:
-Crie um virtual enviroment
-```
-py -m venv venv
-```
-Instale as dependências no venv
-```
-pip install -r requirements.txt
-```
 <hr>
 
 ### Para rodar o jogo
 
-
-
+Execute o arquivo usando o comando: 
+```
+python jogo.py
+```
 <hr>
 
 

@@ -10,7 +10,7 @@ Trabalho Prático 01 - Diciplina de Inteligência Artificial - CSI701
 Professor : Talles Henrique de Mendeiros
 Alunos: Flaviane Vitória Cruz Ferrares 18.1.8147
 Lucas Duarte Almeida 18.1.8049
-Sweney Menezes 18.1.8075
+Sweney Meneses 18.1.8075
 """
 
 # importações
